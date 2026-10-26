@@ -4,7 +4,7 @@
 APAAR Guardian is a web-based prototype designed to demonstrate student-record validation, institutional admission monitoring, and role-specific verification workflows.
 
 <p align="center">
-  <a href="https://apaar-guardian-frontend.onrender.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://apaar-guardian-frontend.onrender.com">
     <strong>🚀 Launch Live Demo</strong>
   </a>
 </p>
@@ -225,7 +225,7 @@ The demonstration uses synthetic data and should not be used to process real stu
 
 ## 🔗 Project Links
 
-- **Live Application:** [APAAR Guardian](https://apaar-guardian-frontend.onrender.com/login)
+- **Live Application:** [APAAR Guardian](https://apaar-guardian-frontend.onrender.com)
 - **GitHub Repository:** Add your repository URL here
 
 ---

@@ -226,7 +226,7 @@ The demonstration uses synthetic data and should not be used to process real stu
 ## 🔗 Project Links
 
 - **Live Application:** [APAAR Guardian](https://apaar-guardian-frontend.onrender.com)
-- **GitHub Repository:** Add your repository URL here
+
 
 ---
 
